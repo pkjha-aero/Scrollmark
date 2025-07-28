@@ -16,7 +16,7 @@
  
 ## Code Organization:
 - `Scrollmark.ipynb`: Driver jupyter notebook.
-- `helper_functions.py`: Contained helper functions for computation and visualization.
+- `helper_functions.py`: Contains helper functions for computation and visualization.
 
 ## Code Dependencies:
 - pandas                    2.3.1                    pypi_0    pypi
@@ -41,4 +41,4 @@
 
 ## AI & Tool Usage:
 - Chat GPT (web version)
-- Google Search (Regula and AI mode)
+- Google Search (Regular and AI mode)
