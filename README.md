@@ -38,6 +38,7 @@
 - Better analyze the most frequent words associated with the sentiments so that only the most relevant are considered.
 - Identify and extract named entities like product names, features.
 - Extend trend analysis from sentiments to topics and entity recognition.
+- Analye reviews by media types.
 
 ## AI & Tool Usage:
 - Chat GPT (web version)
